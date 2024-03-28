@@ -1,2 +1,2 @@
-# ProtocolFuzzing
-This is a very amazing repository!
+# Autopeach
+Automated generation of pit files.
